@@ -1,4 +1,4 @@
-   ### Olá, meu nome é Chrystian, seja bem vindo!     
+   ### Olá, meu nome é Chrystian, seja bem vindo 🦅!     
 - 🔭 Atualmente sou estudante de programação.
 ##
 <div align="center">
