@@ -1,5 +1,5 @@
    ### Olá, meu nome é Chrystian, seja bem vindo!     
-- 🔭 Atualmente sou estudante de programação.
+- 🔭 Um estudante de programação.
 ##
 <div align="center">
   <a href="https://github.com/chrystian-souza">
